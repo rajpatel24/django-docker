@@ -1,2 +1,3 @@
 .idea
 venv_django_docker
+django_docker_demo/django_docker_demo/settings/__pycache__/
